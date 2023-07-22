@@ -23,3 +23,6 @@
 Использовал API YandexMaps JS 2.1 
  Более позднии версии требуют ключ, а страница создания ключа 404.
  
+![Снимок экрана 2023-07-22 235421](https://github.com/MosKon7/Test_Sotbi/assets/43854207/47894d2f-866c-4f88-84bd-aa34e4128060)
+![Снимок экрана 2023-07-23 000641](https://github.com/MosKon7/Test_Sotbi/assets/43854207/422e98c4-99c1-420f-95d0-5b6c4f154aa6)
+![Снимок экрана 2023-07-23 000711](https://github.com/MosKon7/Test_Sotbi/assets/43854207/d1c56182-8565-4e90-9142-df644b259582)
